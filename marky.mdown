@@ -1,0 +1,13 @@
+---
+layout: default
+---
+# this is the largest header - like h1 in html
+## is h2 in html
+this is how you use a -ul
+*foo
+*bar
+*baz
+
+an order one should just place numbers
+1. listo
+2. listo
